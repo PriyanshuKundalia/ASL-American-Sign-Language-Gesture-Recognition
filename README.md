@@ -1,4 +1,4 @@
-# ASL (American Sign Language) Detection Project
+# ASL (American Sign Language) Gesture Recognition Project
 
 A deep learning project for detecting and recognizing American Sign Language gestures using computer vision and neural networks.
 
