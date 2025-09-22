@@ -28,18 +28,6 @@ ASL_Detection/
 └── README.md                 # Project documentation
 ```
 
-## 🛠️ Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/ASL-Detection.git
-   cd ASL-Detection
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
 
 ## 📦 Dependencies
 
@@ -56,7 +44,7 @@ ASL_Detection/
 
 1. **Open the training notebook:**
    ```bash
-   jupyter notebook trainmodel1.ipynb
+   google colab notebook trainmodel1.ipynb
    ```
 
 2. **Follow the notebook cells** to:
@@ -99,12 +87,6 @@ The model is trained on ASL gesture images with:
 - **Classes**: Multiple ASL letters/gestures
 - **Training/Validation split**: Configured in the training notebook
 
-## 🎯 Performance
-
-- **Model accuracy**: [Add your model's accuracy]
-- **Training time**: [Add training duration]
-- **Real-time performance**: [Add FPS or detection speed]
-
 ## 🔧 Configuration
 
 Key configuration parameters:
@@ -114,39 +96,4 @@ Key configuration parameters:
 - **Optimizer**: [Add optimizer used]
 - **Learning rate**: [Add learning rate]
 
-## 📈 Results
 
-[Add training plots, confusion matrix, or other performance metrics]
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👥 Authors
-
-- **Your Name** - *Initial work* - [YourGitHub](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- ASL community for gesture datasets
-- TensorFlow and Keras teams
-- OpenCV contributors
-- [Add any other acknowledgments]
-
-## 📧 Contact
-
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-
----
-
-**Note**: Replace placeholder values (like accuracy, training time, your contact info) with actual project-specific information.
