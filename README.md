@@ -44,7 +44,7 @@ ASL_Detection/
 
 1. **Open the training notebook:**
    ```bash
-   google colab notebook trainmodel1.ipynb
+   jupyter notebook trainmodel1.ipynb
    ```
 
 2. **Follow the notebook cells** to:
