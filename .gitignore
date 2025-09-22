@@ -1,0 +1,47 @@
+# Exclude nested git repositories
+ASL-American-Sign-Language-Gesture-Recognition/
+
+# Large model files (can be uploaded separately to releases)
+*.h5
+*.hdf5
+
+# Dataset folders (usually too large for git)
+SignImage48x48/
+newsplit48x48/
+splitdataset48x48/
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.pytest_cache/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model training logs
+logs/
+tensorboard_logs/
